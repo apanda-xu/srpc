@@ -2,6 +2,7 @@
 *.bak
 *.gz
 *.zip
+!srpc.zip
 *.tar
 *.la
 *.lo
